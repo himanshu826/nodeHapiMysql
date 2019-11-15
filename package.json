@@ -1,0 +1,28 @@
+{
+  "name": "nodehapimysql",
+  "version": "1.0.0",
+  "description": "NodeJs HapiJs MySql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Himanshu Garg",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^7.4.2",
+    "@hapi/hapi": "^18.3.1",
+    "@hapi/inert": "^5.2.1",
+    "@hapi/joi": "^15.1.0",
+    "@hapi/vision": "^5.5.2",
+    "async": "^3.1.0",
+    "aws-sdk": "^2.491.0",
+    "hapi-auth-bearer-token": "^6.2.1",
+    "hapi-auth-jwt2": "^8.6.1",
+    "hapi-swagger": "^10.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.2.1",
+    "moment": "^2.24.0",
+    "mysql": "^2.17.1",
+    "request": "^2.88.0"
+  }
+}
